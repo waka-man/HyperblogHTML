@@ -1,0 +1,58 @@
+hyperskill_project:
+  id: 416
+  ide_files: https://cogniterra.org/media/attachments/lesson/34283/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Tue, 14 May 2024 09:19:34 UTC"
+stages:
+  - id: 2430
+    step: 39863
+    is_completed: true
+  - id: 2431
+    step: 39864
+    is_completed: true
+  - id: 2432
+    step: 39865
+    is_completed: true
+  - id: 2433
+    step: 39866
+    is_completed: true
+topics:
+  0:
+    - title: Block-level elements
+      theory_id: 7271
+    - title: Inline elements
+      theory_id: 7518
+    - title: What is CSS
+      theory_id: 7678
+    - title: HTML attributes id and class
+      theory_id: 7527
+    - title: Layout elements
+      theory_id: 13326
+    - title: Tags and Attributes
+      theory_id: 7536
+    - title: HTML page structure
+      theory_id: 6491
+    - title: Links
+      theory_id: 11834
+    - title: Intro to Lists
+      theory_id: 8178
+  1:
+    - title: Ordered list and types
+      theory_id: 26024
+  2:
+    - title: Audio
+      theory_id: 7493
+    - title: DOM
+      theory_id: 8635
+    - title: Video
+      theory_id: 16637
+    - title: HTML Quotations
+      theory_id: 19252
+    - title: "<samp>, <kbd>, <code> tags"
+      theory_id: 21143
+    - title: The <i> tag
+      theory_id: 11662
+  3:
+    - title: "<abbr>, <address> and <bdo> tags"
+      theory_id: 19259

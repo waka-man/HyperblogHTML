@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/index.html
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/39863#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 08 May 2024 08:21:39 UTC"
+record: 1

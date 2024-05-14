@@ -1,0 +1,7 @@
+type: framework
+content:
+  - Header content
+  - Aside content
+  - Main content
+  - Footer content
+current_task: 3
